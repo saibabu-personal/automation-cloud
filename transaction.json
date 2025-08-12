@@ -3,4 +3,6 @@ clone
 push
 pull
 etch
-checkout
+fork clone
+push pull request
+merger
